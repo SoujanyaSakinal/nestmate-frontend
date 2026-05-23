@@ -26,3 +26,16 @@ A community-driven platform for students and workers to find PGs and hostels wit
 
 ## 🔗 Backend Repo
 👉 [nestmate-backend](https://github.com/SoujanyaSakinal/nestmate-backend)
+
+## 📸 Screenshots
+### 🔍 Browse Listings ( Seeker )
+<img width="1869" height="991" alt="image" src="https://github.com/user-attachments/assets/5ed0b234-1fd7-4da4-838f-0d40e47fa2bc" />
+
+### 🔍 Browse Listings ( Poster )
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/f2e78557-b051-43cb-9cc7-54ecc4c2fe13" />
+
+### 📄 Listing detail
+<img width="1838" height="954" alt="image" src="https://github.com/user-attachments/assets/b49c3836-470c-4ae2-91a9-f36049a35f72" />
+
+### 👮 Admin dashboard
+<img width="1910" height="924" alt="image" src="https://github.com/user-attachments/assets/d29b5b2c-3652-4d98-98b2-03a772ea6001" />
